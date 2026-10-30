@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cloudflare SHOPLINE 空白应用"
+  short_description: "搭建可部署 Cloudflare Workers、自动维护授权的 SHOPLINE 空白应用"
+  default_prompt: "使用 $cloudflare-shopline-app 在指定目录搭建可部署到 Cloudflare Workers 的空白 SHOPLINE 应用，完成集中配置、授权维护、业务接入接口及验证，并说明配置与部署步骤。"
